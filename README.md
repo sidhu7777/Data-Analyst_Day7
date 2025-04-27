@@ -26,7 +26,7 @@ This project demonstrates how to use Python to interact with a MySQL database. I
 ```
 notebook/
 │
-└── tavily_mysql_tutorial.ipynb    # Complete MySQL operation tutorial in Python
+└── tutorial.ipynb    # Complete MySQL operation tutorial in Python
 ```
 
 ## Requirements
